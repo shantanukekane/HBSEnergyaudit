@@ -1,0 +1,423 @@
+14:02:40.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.410 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.483 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.541 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.611 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.680 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.775 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.848 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.900 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.929 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:41.959 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:41.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:41.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:41.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:42.010 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:42.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:42.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:02:42.045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:02:42.060 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:42.171 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting of TC_003_LoginDDT ******
+14:02:43.298 [main] INFO  testCases.TC_003_LoginDDT -  click on my Account link 
+14:02:49.335 [main] INFO  testCases.TC_003_LoginDDT -  click on Login link to navigate to Login Page 
+14:02:51.013 [main] INFO  testCases.TC_003_LoginDDT -  Enter username/Email into email input box  
+14:02:51.379 [main] INFO  testCases.TC_003_LoginDDT - Enter Password into password input box 
+14:02:58.089 [main] INFO  testCases.TC_003_LoginDDT - Click on Login Button
+14:03:02.531 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+14:03:02.568 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting of TC_003_LoginDDT ******
+14:03:02.914 [main] INFO  testCases.TC_003_LoginDDT -  click on my Account link 
+14:03:05.085 [main] INFO  testCases.TC_003_LoginDDT -  click on Login link to navigate to Login Page 
+14:03:05.385 [main] INFO  testCases.TC_003_LoginDDT -  Enter username/Email into email input box  
+14:03:05.661 [main] INFO  testCases.TC_003_LoginDDT - Enter Password into password input box 
+14:03:07.428 [main] INFO  testCases.TC_003_LoginDDT - Click on Login Button
+14:03:17.472 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+14:03:17.493 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting of TC_003_LoginDDT ******
+14:03:17.687 [main] INFO  testCases.TC_003_LoginDDT -  click on my Account link 
+14:03:19.819 [main] INFO  testCases.TC_003_LoginDDT -  click on Login link to navigate to Login Page 
+14:03:20.199 [main] INFO  testCases.TC_003_LoginDDT -  Enter username/Email into email input box  
+14:03:20.380 [main] INFO  testCases.TC_003_LoginDDT - Enter Password into password input box 
+14:03:22.684 [main] INFO  testCases.TC_003_LoginDDT - Click on Login Button
+14:03:26.093 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+14:03:26.101 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting of TC_003_LoginDDT ******
+14:03:26.264 [main] INFO  testCases.TC_003_LoginDDT -  click on my Account link 
+14:03:30.009 [main] INFO  testCases.TC_003_LoginDDT -  click on Login link to navigate to Login Page 
+14:03:30.337 [main] INFO  testCases.TC_003_LoginDDT -  Enter username/Email into email input box  
+14:03:30.561 [main] INFO  testCases.TC_003_LoginDDT - Enter Password into password input box 
+14:03:32.095 [main] INFO  testCases.TC_003_LoginDDT - Click on Login Button
+14:03:42.149 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+14:03:42.233 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting of TC_003_LoginDDT ******
+14:03:42.895 [main] INFO  testCases.TC_003_LoginDDT -  click on my Account link 
+14:03:46.155 [main] INFO  testCases.TC_003_LoginDDT -  click on Login link to navigate to Login Page 
+14:03:46.953 [main] INFO  testCases.TC_003_LoginDDT -  Enter username/Email into email input box  
+14:03:47.762 [main] INFO  testCases.TC_003_LoginDDT - Enter Password into password input box 
+14:03:53.742 [main] INFO  testCases.TC_003_LoginDDT - Click on Login Button
+14:04:03.771 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+14:50:45.401 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+14:50:47.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+14:51:50.565 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+14:51:56.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+14:52:22.933 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+14:52:24.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+14:52:24.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+14:52:25.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+14:52:26.050 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+14:52:26.768 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+14:52:34.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+14:52:34.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+14:52:34.724 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+14:52:53.086 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+14:52:53.835 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+14:52:59.755 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+14:53:00.430 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+14:53:00.706 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+14:53:03.236 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+14:53:03.863 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+19:12:08.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+19:12:09.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+19:12:38.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:12:38.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:12:40.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:12:41.283 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:12:41.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:12:41.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:12:42.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:13:01.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:13:06.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:13:06.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:13:06.876 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+19:13:17.359 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:13:17.917 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:13:19.488 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:13:20.289 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:13:20.580 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:13:22.310 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:13:22.507 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+19:20:12.434 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+19:20:13.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+19:20:30.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:20:31.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:20:33.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:20:33.970 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:20:34.346 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:20:34.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:20:34.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:20:35.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:20:41.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:20:41.931 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:20:42.364 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+19:20:54.961 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:20:55.480 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:20:56.876 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:20:57.392 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:20:57.647 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:20:59.310 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:21:09.492 [main] ERROR testCases.TC_002_LoginTest - Test Failed
+19:21:09.496 [main] DEBUG testCases.TC_002_LoginTest - Debug logs
+19:29:17.590 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\test-output\testng-failed.xml"
+19:29:19.750 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\test-output\testng-failed.xml
+
+19:29:56.886 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:29:59.850 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:30:03.649 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:30:05.340 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:30:06.139 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:30:08.736 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:30:09.717 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+19:34:50.008 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+19:34:50.974 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+19:35:07.750 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:35:09.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:35:12.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:35:13.198 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:35:14.149 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:35:14.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:35:14.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:35:15.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:35:20.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:35:20.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:35:20.150 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+19:35:20.150 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug Logs
+19:35:30.620 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:35:31.111 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:35:32.620 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:35:33.479 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:35:33.674 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:35:36.365 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:35:36.548 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+19:39:16.977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+19:39:17.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+19:39:30.642 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:39:31.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:39:33.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:39:33.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:39:34.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:39:34.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:39:34.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:39:35.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:39:40.505 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:39:40.506 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:39:40.668 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+19:39:40.668 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug Logs
+19:39:51.295 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:39:52.033 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:39:53.335 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:39:53.860 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:39:54.115 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:39:55.188 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:40:05.440 [main] ERROR testCases.TC_002_LoginTest - Test Failed
+19:40:05.442 [main] DEBUG testCases.TC_002_LoginTest - Debug logs
+19:45:46.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\test-output\testng-failed.xml"
+19:45:48.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\test-output\testng-failed.xml
+
+19:46:24.703 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+19:46:28.472 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+19:46:33.560 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+19:46:34.722 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+19:46:35.260 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+19:46:38.258 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+19:46:39.169 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+19:46:58.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:46:59.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:47:05.239 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:47:06.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:47:06.827 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:47:07.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:47:07.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:47:08.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:47:18.591 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:47:18.591 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:47:18.744 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+23:23:10.914 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+23:23:12.435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+23:24:11.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+23:24:12.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+23:24:17.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+23:24:18.796 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+23:24:19.055 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+23:24:19.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+23:24:19.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+23:24:20.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+23:24:27.374 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+23:24:27.374 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+23:24:27.844 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+23:24:50.135 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:24:52.446 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:24:56.250 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+23:24:57.592 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+23:24:58.282 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+23:25:01.104 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+23:25:01.647 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+23:29:33.879 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\grouping.xml"
+23:29:35.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\grouping.xml
+
+23:30:36.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+23:30:37.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+23:30:40.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+23:30:43.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+23:30:44.079 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+23:30:44.441 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+23:30:44.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+23:30:45.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+23:30:53.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+23:30:53.380 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+23:30:53.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+23:31:38.476 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:31:39.162 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:31:41.693 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+23:31:42.090 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+23:31:42.457 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+23:31:42.643 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+23:31:44.472 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+23:37:09.715 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+23:37:15.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+23:38:54.606 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+23:38:54.605 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+23:39:01.060 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+23:39:01.356 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+23:40:06.638 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:40:08.373 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:40:10.568 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+23:40:11.879 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+23:40:12.225 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+23:40:15.184 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Click on Login Button
+23:40:15.677 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+23:40:43.258 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:40:44.002 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:40:47.167 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+23:40:47.962 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+23:40:48.290 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+23:40:50.393 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Click on Login Button
+23:40:50.869 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+23:47:20.031 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+23:47:28.342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+23:50:35.161 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:50:38.004 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+23:50:38.852 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:50:40.272 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+23:50:51.119 [TestNG-tests-2] ERROR testCases.TC_002_LoginTest - Test Failed
+23:50:51.120 [TestNG-tests-2] DEBUG testCases.TC_002_LoginTest - debug logs
+23:52:42.860 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+23:52:45.582 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+23:52:49.272 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+23:52:51.718 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+23:52:52.096 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+23:52:54.878 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Click on Login Button
+23:52:56.431 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+23:56:16.976 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+23:56:20.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+00:04:19.034 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+00:04:23.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+00:05:44.326 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+00:05:46.496 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+00:05:57.804 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+00:06:02.286 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+00:06:02.927 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+00:06:03.788 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+00:06:04.476 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+00:06:05.807 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+00:06:16.668 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+00:06:16.668 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+00:06:17.198 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+00:06:49.146 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+00:06:50.457 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+00:07:00.474 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+00:07:03.257 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+00:07:04.166 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+00:07:05.665 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+00:07:06.409 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+00:07:08.522 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+00:07:19.606 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+00:07:19.607 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+00:07:20.431 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+00:08:46.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+00:08:47.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+17:11:24.840 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:13:48.677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:13:50.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\master.xml
+
+17:14:40.377 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:14:42.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:14:47.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:14:48.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:14:48.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:14:49.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:14:49.380 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:14:49.916 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:14:58.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:14:58.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:14:59.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+17:15:22.045 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+17:15:22.646 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+17:15:26.919 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+17:15:27.755 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+17:15:28.072 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+17:15:31.213 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+17:15:31.389 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+17:16:47.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:17:06.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:17:08.120 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:17:11.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:17:13.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:17:13.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:17:14.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:17:14.841 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:17:15.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:17:19.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:17:19.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:17:19.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+17:17:45.943 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+17:17:47.921 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+17:18:00.236 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+17:18:03.191 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+17:18:04.012 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+17:18:10.338 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+17:18:10.776 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+17:45:10.961 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:46:42.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:46:45.271 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:46:48.644 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:46:50.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:46:50.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:46:50.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:46:50.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:46:51.271 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:46:59.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:46:59.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:47:00.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+17:47:22.281 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+17:47:22.806 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+17:47:32.957 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+17:47:39.372 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+17:47:41.112 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+17:47:49.834 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+17:47:51.315 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******
+17:59:30.287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+18:01:20.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:01:21.664 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:01:25.136 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:01:26.146 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:01:26.403 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:01:26.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:01:26.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:01:27.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:01:34.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:01:34.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:01:34.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:01:52.214 [main] INFO  testCases.TC_002_LoginTest - ***** Starting of TC_002_LoginTest ******
+18:01:52.562 [main] INFO  testCases.TC_002_LoginTest -  click on my Account link 
+18:01:55.469 [main] INFO  testCases.TC_002_LoginTest -  click on Login link to navigate to Login Page 
+18:01:56.101 [main] INFO  testCases.TC_002_LoginTest -  Enter username/Email into email input box  
+18:01:56.315 [main] INFO  testCases.TC_002_LoginTest - Enter Password into password input box 
+18:01:56.467 [main] INFO  testCases.TC_002_LoginTest - Click on Login Button
+18:01:59.066 [main] INFO  testCases.TC_002_LoginTest - ***** Finished of TC_002_LoginTest ******

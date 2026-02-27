@@ -1,0 +1,452 @@
+16:27:35.662 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-990094595\testng-customsuite.xml"
+16:27:39.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 40 ms.
+16:27:39.488 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:27:39.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.561 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+16:27:39.633 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 69 ms.
+16:27:39.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:27:39.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.639 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.639 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.766 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.766 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.769 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.772 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:27:39.776 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.777 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:39.777 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:39.777 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:40.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-990094595\testng-customsuite.xml
+
+16:27:40.430 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 134 ms.
+16:28:17.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+16:28:18.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+16:28:22.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+16:28:22.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+16:28:22.834 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+16:28:23.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+16:28:23.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+16:28:23.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+16:28:29.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+16:28:29.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+16:28:29.750 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+16:28:32.999 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@415156bf: 1867 ms
+16:28:33.003 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4158debd: 4 ms
+16:28:33.025 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@153f66e7: 22 ms
+16:28:33.040 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4e4c3a38: 15 ms
+16:28:33.058 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@398474a2: 17 ms
+16:28:33.058 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@61799544: 0 ms
+16:33:25.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-648560165\testng-customsuite.xml"
+16:33:27.365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:33:27.370 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+16:33:27.375 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.375 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.378 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.394 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+16:33:27.418 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+16:33:27.422 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:33:27.423 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.442 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:27.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:27.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-648560165\testng-customsuite.xml
+
+16:33:27.759 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+16:38:34.923 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-1932865673\testng-customsuite.xml"
+16:38:43.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 184 ms.
+16:38:43.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+16:38:43.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:43.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:43.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:43.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:43.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:43.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:43.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 28 ms.
+16:38:43.782 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 161 ms.
+16:38:43.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:38:43.791 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:38:43.802 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.025 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.360 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.370 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.375 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:38:44.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+16:38:44.382 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:44.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:44.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-1932865673\testng-customsuite.xml
+
+16:38:44.926 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 258 ms.
+16:39:38.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+16:39:38.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+16:39:42.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+16:39:43.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+16:39:44.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+16:39:45.664 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+16:39:46.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+16:39:47.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+16:39:54.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+16:39:54.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+16:40:01.560 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@765df79d: 457 ms
+16:40:01.597 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@64138b0c: 36 ms
+16:40:01.624 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2b214b94: 26 ms
+16:40:01.654 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@60dd3c23: 30 ms
+16:40:01.682 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@215a34b4: 27 ms
+16:40:01.682 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@77bd7fe7: 0 ms
+16:50:19.484 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-740751593\testng-customsuite.xml"
+16:50:20.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:50:20.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:50:20.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.468 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+16:50:20.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+16:50:20.502 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:50:20.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.507 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.514 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.514 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.531 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.532 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:50:20.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:50:20.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:50:20.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-740751593\testng-customsuite.xml
+
+16:50:20.881 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 35 ms.
+16:50:56.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+16:50:57.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+16:51:02.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+16:51:03.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+16:51:03.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+16:51:04.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+16:51:04.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+16:51:05.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+16:51:10.117 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+16:51:10.117 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+16:51:10.401 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+16:51:10.401 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug Logs
+16:51:14.915 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4912d525: 508 ms
+16:51:15.202 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d74c3ba: 286 ms
+16:51:15.513 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@65bb9029: 310 ms
+16:51:15.530 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@173373b4: 17 ms
+16:51:15.754 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@985696: 224 ms
+16:51:15.755 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bcde458: 0 ms
+16:57:49.767 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse--388286691\testng-customsuite.xml"
+16:57:53.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+16:57:53.439 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:57:53.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.446 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.446 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+16:57:53.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 46 ms.
+16:57:53.514 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.519 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.523 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.523 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.524 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.565 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:57:53.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:57:53.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:53.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:53.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse--388286691\testng-customsuite.xml
+
+16:57:54.137 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 252 ms.
+16:58:47.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+16:58:48.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+16:58:55.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+16:58:58.120 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+16:58:58.399 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+16:58:59.065 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+16:58:59.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+16:59:00.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+16:59:07.597 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+16:59:07.597 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+16:59:07.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+16:59:15.919 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4af46df3: 301 ms
+16:59:15.925 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@773dab28: 5 ms
+16:59:15.977 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6f667ad1: 52 ms
+16:59:15.990 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c27d163: 13 ms
+16:59:16.010 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@78c1a023: 20 ms
+16:59:16.011 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@70abf9b0: 0 ms
+17:04:32.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\AppData\Local\Temp\testng-eclipse--1008702777\testng-customsuite.xml"
+17:04:37.211 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:04:37.215 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+17:04:37.219 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.219 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+17:04:37.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 361 ms.
+17:04:37.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.743 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+17:04:37.747 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.748 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.748 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:04:37.748 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:04:37.862 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse--1008702777\testng-customsuite.xml
+
+17:04:38.132 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 215 ms.
+17:05:19.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:05:21.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:05:26.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:05:28.650 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:05:29.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:05:29.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:05:29.756 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:05:30.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:05:39.280 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:05:39.280 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:05:40.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+17:05:45.468 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@415156bf: 1015 ms
+17:05:45.478 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4158debd: 9 ms
+17:05:45.505 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@153f66e7: 26 ms
+17:05:45.547 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4e4c3a38: 38 ms
+17:05:46.012 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@398474a2: 461 ms
+17:05:46.016 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@61799544: 1 ms
+17:53:49.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:53:53.177 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\master.xml
+
+17:55:08.643 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:55:11.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:55:14.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:55:16.051 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:55:16.364 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:55:16.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:55:16.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:55:18.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:55:24.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:55:24.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:55:24.916 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+17:57:30.951 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\master.xml"
+17:57:36.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\master.xml
+
+17:58:22.601 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+17:58:24.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+17:58:26.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+17:58:28.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+17:58:29.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+17:58:30.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+17:58:30.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+17:58:31.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+17:58:39.448 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+17:58:39.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+17:58:39.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:17:42.125 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+18:17:45.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+18:19:14.269 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:19:17.376 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:19:27.905 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:19:29.105 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:19:29.746 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:19:30.058 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:19:30.608 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:19:31.240 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:19:38.168 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:19:38.168 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:19:38.251 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:22:32.532 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+18:22:35.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+18:29:11.843 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+18:29:14.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+18:29:42.360 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:29:43.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:29:46.528 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:29:47.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:29:47.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:29:47.735 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:29:47.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:29:48.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:29:53.096 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:29:53.096 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:29:53.234 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:30:45.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:30:46.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:30:49.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:30:49.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:30:49.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:30:50.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:30:50.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:30:51.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:30:55.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:30:55.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:30:56.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:34:49.570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+18:34:56.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+18:36:04.386 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:36:05.285 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:36:08.138 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:36:10.262 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:36:11.048 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:36:11.490 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:36:11.977 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:36:12.792 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:36:22.329 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:36:22.329 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:36:22.436 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:40:46.229 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+18:40:49.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+18:41:43.762 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:41:45.541 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+18:41:46.289 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:41:50.428 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+18:41:53.935 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:41:55.327 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+18:41:55.596 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:41:55.988 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:41:56.311 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:41:56.849 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:41:57.392 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:41:57.407 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+18:41:57.810 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+18:41:58.239 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+18:41:58.566 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+18:41:59.227 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+18:42:05.673 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:42:05.675 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:42:06.255 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+18:42:06.543 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+18:42:06.544 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+18:42:06.704 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+19:03:06.146 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+19:03:09.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+19:04:11.662 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:04:13.575 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:04:19.859 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:04:20.602 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:04:20.866 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:04:21.219 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:04:21.701 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:04:22.471 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:04:30.013 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:04:30.013 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:04:30.235 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+19:05:20.410 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml"
+19:05:22.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Javacorerevised\OpenCartV1.2\crossbrowsertesting.xml
+
+19:05:52.680 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:05:55.451 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:05:55.941 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting of TC_001 Account Registration Test ******
+19:05:57.262 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on MyAccount Link ******
+19:05:58.108 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:05:59.909 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:06:00.360 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:06:00.862 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:06:01.175 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:06:02.741 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:06:04.086 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Register Button ******
+19:06:08.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name first name  ******
+19:06:08.614 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Last name  ******
+19:06:09.698 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Email id name  ******
+19:06:09.936 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Entering Name Telephone Number  ******
+19:06:10.821 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Passing Valid Password into password and confirm password i/p box ******
+19:06:11.366 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:06:11.366 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:06:11.514 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
+19:06:15.679 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** click on Continue button  ******
+19:06:15.679 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** validating Expected message *****
+19:06:15.812 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****** Ending of TC_001 Account Registration Test *******
